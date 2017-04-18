@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: d1379ecc287c7466d9415db0cb5cdb82
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    4300000: tree_B041
+    4300002: tree_B040
+    4300004: tree_B039
+    4300006: tree_B038
+    4300008: tree_B037
+    4300010: tree_B036
+    4300012: tree_B035
+    4300014: tree_B034
+    4300016: tree_B033
+    4300018: tree_B032
+    4300020: tree_B031
+    4300022: tree_B030
+    4300024: tree_B029
+    4300026: tree_B028
+    4300028: tree_B027
+    4300030: tree_B026
+    4300032: tree_B025
+    4300034: tree_B024
+    4300036: tree_B023
+    4300038: tree_B022
+    4300040: tree_A062
+    4300042: tree_A061
+    4300044: tree_A060
+    4300046: tree_A059
+    4300048: tree_A058
+    4300050: tree_A057
+    4300052: tree_A056
+    4300054: tree_A055
+    4300056: tree_A054
+    4300058: tree_A053
+    4300060: tree_A052
+    4300062: tree_A051
+    4300064: tree_A050
+    4300066: tree_A049
+    4300068: tree_A048
+    4300070: tree_A047
+    4300072: tree_A046
+    4300074: tree_A045
+    4300076: tree_A044
+    4300078: tree_A043
+    4300080: tree_A042
+    4300082: tree_A041
+    4300084: tree_A040
+    4300086: tree_A039
+    4300088: tree_A038
+    4300090: tree_A037
+    4300092: tree_A036
+    4300094: tree_A035
+    4300096: tree_A034
+    4300098: tree_A033
+    4300100: templeEnemy
+    4300102: templePlayer
+    4300104: ground
+    4300106: arrowTower
+    4300108: totem
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
